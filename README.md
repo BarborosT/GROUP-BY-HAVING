@@ -1,3 +1,4 @@
+https://app.patika.dev/barborost </br>
 # GROUP-BY-HAVING
 
 1.film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
